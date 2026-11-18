@@ -1,0 +1,8 @@
+{
+  "name": "2.Sol-Emp-Imob",
+  "description": "Imóveis selecionados para morar ou investir em Salvador e região metropolitana. Compra, venda e locação com curadoria, documentação verificada e atendimento próximo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
